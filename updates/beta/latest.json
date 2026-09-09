@@ -1,11 +1,11 @@
 {
-  "version": "0.2.6",
-  "notes": "Creator Manager beta 0.2.6",
-  "pub_date": "2026-09-09T16:00:53.552Z",
+  "version": "0.2.7",
+  "notes": "Creator Manager beta 0.2.7",
+  "pub_date": "2026-09-09T16:05:33.590Z",
   "platforms": {
     "windows-x86_64-nsis": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQ3lsQ05nMmtiTitJTGR6SUwyWXJ0bkNVYWtUa09OYnVkaThOclNJL0d2elJwYVlSUXlsUjZmcExmanlrcFppZUY0bTdzWlB6bW45anpZbllhMDY1YzdNMk5sZ0ErZEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTY5NjA4CWZpbGU6Q3JlYXRvciBNYW5hZ2VyXzAuMi42X3g2NC1zZXR1cC5leGUKRUFRSjlMdWJMVWFoeGJNeno0bzlqZUpiOHpONU9RbDFvLzNDRStkMGhZMWpQVW91UzZDSzdKOGt5dW5ZMDE2VlkrZm1ROG54Ym5ScmRiZFBJYUNhQkE9PQo=",
-      "url": "https://github.com/JAYCoolhq/Creator-Manager/releases/download/v0.2.6-beta/Creator.Manager_0.2.6_x64-setup.exe"
+      "url": "https://github.com/JAYCoolhq/Creator-Manager/releases/download/v0.2.7-beta/Creator.Manager_0.2.6_x64-setup.exe"
     }
   }
 }
