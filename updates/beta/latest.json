@@ -1,11 +1,11 @@
 {
   "version": "0.2.7",
   "notes": "Creator Manager beta 0.2.7",
-  "pub_date": "2026-09-09T16:08:32.718Z",
+  "pub_date": "2026-09-09T16:10:33.842Z",
   "platforms": {
     "windows-x86_64-nsis": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQ3lsQ05nMmtiTjE5TDFBSjZVakphNEJFaHg2MkhKUWpCdlNNTGZucDVnQlhua3h2bHdTVUpvRDdMb3p4cnhsMU9hSTAxVmtmU2hIY1lGTkVzc3N1eWY0SXVRWWVGVGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTY5ODY2CWZpbGU6Q3JlYXRvciBNYW5hZ2VyXzAuMi43X3g2NC1zZXR1cC5leGUKYXBMTzRyY015cXdsM3RRR2N3VWt3VVlka0RXWEw0SUVldVlMTFU0Z0pCVTVSSXE2VHluTEQzWmdKTUJrQTNYdklTVUkvZVkrb2VUYW1NNDV6N0p3Q2c9PQo=",
-      "url": "https://github.com/JAYCoolhq/Creator-Manager/releases/download/v0.2.7-beta/Creator.Manager_0.2.6_x64-setup.exe"
+      "url": "https://github.com/JAYCoolhq/Creator-Manager/releases/download/v0.2.7-beta/Creator.Manager_0.2.7_x64-setup.exe"
     }
   }
 }
