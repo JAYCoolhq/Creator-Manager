@@ -1,10 +1,10 @@
 {
   "version": "0.2.16",
   "notes": "Creator Manager beta 0.2.16",
-  "pub_date": "2026-09-10T14:28:31.632Z",
+  "pub_date": "2026-09-10T14:45:10.438Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQ3lsQ05nMmtiTnlubXhNQjl6NlFnODZqM0RKdUlaemFqODN0L2ZGRTVudERYN1dXMlAvVXRLSkhRRUY5a0wvdHo3bEJoekJvT3Yrdm82Y1ZMbVRabkJtMEJGUTZlU3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDUwMjMyCWZpbGU6Q3JlYXRvciBNYW5hZ2VyXzAuMi4xNl94NjQtc2V0dXAuZXhlCjVyOXhaUnM1QVRDNFZzV2Uyd3RLNEpqdVdGNVlVOXRWaHRMWVo1TmFINWlUUXVlWXBzeEpoS2RuNzBqVnNlMC9wWDlpUm4vNHZadFdZMG5RRzV4cUNRPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQ3lsQ05nMmtiTjl0Nmh3MU5TZW0vS3gzbksxOE5oUWsweVVYcEl6RFNFSE1PM0NxbDdmcDJsaEt6eFJUWG1ubE85TCthbFJ6U2RpQ0hmOWVUUmp1c0QrZzY1WGExZ3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDUxNDk1CWZpbGU6Q3JlYXRvciBNYW5hZ2VyXzAuMi4xNl94NjQtc2V0dXAuZXhlCkxVcmRNQzU1cy9YY0Q4VE02QXhqdWtTUVNNZk1rVXovd0craC82NlRaOG55UWRCb3FKSE4xQmZZenBNN0JGQmpsNXhyUHNhejNJV0xBSEpza0VRVEFBPT0K",
       "url": "https://github.com/JAYCoolhq/Creator-Manager/releases/download/v0.2.16-beta/Creator.Manager_0.2.16_x64-setup.exe"
     }
   }
