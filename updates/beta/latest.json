@@ -1,11 +1,11 @@
 {
-  "version": "0.3.2",
-  "notes": "Creator Manager beta 0.3.2",
-  "pub_date": "2026-09-10T19:46:41.459Z",
+  "version": "0.3.3",
+  "notes": "Creator Manager beta 0.3.3",
+  "pub_date": "2026-09-11T02:13:07.208Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQ3lsQ05nMmtiTjQwMDhsUVZhTGZuVWwrNDllK0t5cGh5VXhhbFFVVTlnTGkyYXNqVVVpbmdVb3NCeFNFNGoxcTM1OUM3eDFjSWhLL0ZrVjFtcTdVZHk3SWxFT1hUbmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDY5NTcxCWZpbGU6Q3JlYXRvciBNYW5hZ2VyXzAuMy4yX3g2NC1zZXR1cC5leGUKYm1FZFIrc0tFRkNlMmNmYWgrMnpCaVQyU1M4MVVYdWdpaUF0bkkwRUFvTitBRUhNR2xDOWNKTjNYZ0ZQOU5CM2tMSXc5STIvM1lnalA0RDZoNFllQmc9PQo=",
-      "url": "https://github.com/JAYCoolhq/Creator-Manager/releases/download/v0.3.2-beta/Creator.Manager_0.3.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQ3lsQ05nMmtiTjBJNktYWWovdURzY0IwMEFXbWpKbTJJSHhFTkptaktyemlaYjJRWlhDNGdIblk5eW1tSk44OVp2MjZuRjJsRlRnTm1PRFRaZUNtWWluYzQ4VnE2blE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDkyNzYyCWZpbGU6Q3JlYXRvciBNYW5hZ2VyXzAuMy4zX3g2NC1zZXR1cC5leGUKWE5kNzJtNHBpWlg5aWRuUVJYaU1sSWEvcDZVUEluSm1GOTBibklUWmZMenpQQXMzNDdueDVZOUxlSkNEMTVrUDIwL0sxQmYzRzBuTlEzK2lNN21sRGc9PQo=",
+      "url": "https://github.com/JAYCoolhq/Creator-Manager/releases/download/v0.3.3-beta/Creator.Manager_0.3.3_x64-setup.exe"
     }
   }
 }
