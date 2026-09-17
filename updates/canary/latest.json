@@ -1,10 +1,10 @@
 {
   "version": "0.9.30",
   "notes": "Creator Manager canary 0.9.30",
-  "pub_date": "2026-09-17T17:58:12.358Z",
+  "pub_date": "2026-09-17T18:18:59.063Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQ3lsQ05nMmtiTjc4bjlBOXh4dzVIL2RNdjdsekVIZ2hnb0JhaTNFTDRsaUxVSVFuNU9scVQzaFpMaFU0VmtPeGdRMFJGN3loZU1XSlIzRFl3WHZMS25EbEpBMXVKbXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjY3NDc3CWZpbGU6Q3JlYXRvciBNYW5hZ2VyXzAuOS4zMF94NjQtc2V0dXAuZXhlClZ5MDA4MVVIekpjaTIzUThDVFdxTjN6T2U3RlVvSzVVbitxNmU2UU9VZW9EZWxYVlpCcGZUakFRU1ZBVmd3ejNMbXNrdTZjVGt6QTB2SThCVENwUkNBPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQ3lsQ05nMmtiTjBZUndJYzU4MXhjSDR2dU1CU244S24ySjhCU250b3Z4R1JhekFnQXhNOSt1YWFyVG96Rng3MkQ2R3NYcEpxYmZrUDA4MU5BWkdSWTZHcjY3eExVcmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjY4ODM1CWZpbGU6Q3JlYXRvciBNYW5hZ2VyXzAuOS4zMF94NjQtc2V0dXAuZXhlClFwWm5ZVkFLV3dnNDZsRjlRSStlVmxwUDNlUVNIUGFKSnJCeE1HVEliM01HZi9BSjNicVEvZTY2NFQ1WXJZZ1c5anpJdTdFRW42Wm5kWUNLUFhQbkFnPT0K",
       "url": "https://github.com/JAYCoolhq/Creator-Manager/releases/download/v0.9.30-canary/Creator.Manager_0.9.30_x64-setup.exe"
     }
   }
