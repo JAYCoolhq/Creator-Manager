@@ -1,11 +1,11 @@
 {
-  "version": "0.11.4",
-  "notes": "Creator Manager canary 0.11.4",
-  "pub_date": "2026-09-27T17:55:38.483Z",
+  "version": "0.12.0",
+  "notes": "Creator Manager canary 0.12.0",
+  "pub_date": "2026-09-27T18:06:41.479Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQ3lsQ05nMmtiTjBDVXFkZkN4czJpK1VWYWQ2WmxmRkwyODhNOVhya3RQM1lzMXh2WG5VYSswSlRzc3N0VGxxTmUrQm1OUjc4Y29KME1sRkFmSDZ5bXFHV0NJcEQrSVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTMxNjIzCWZpbGU6Q3JlYXRvciBNYW5hZ2VyXzAuMTEuNF94NjQtc2V0dXAuZXhlClZyK3liTzlOM3JlTEQxYVVHWjhRUURHbGpXaGovcDlGOUpuVkJyQ21nVG1SeW5aNUI0UUFwaHZHMWZXSE5FeHQ2NHREVGdtWHBBSmpDV1RLYmllWURnPT0K",
-      "url": "https://github.com/JAYCoolhq/Creator-Manager/releases/download/v0.11.4-canary/Creator.Manager_0.11.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQ3lsQ05nMmtiTngwK2lvZXpVMXdEV3JhczRwUUlWdUdwN3ZnZldoSnRnOXpNMXIyclY1V1BRblRTYVVyaXRKQW05STlMcmNIdmZWYVViUU51SVFkZHVSQld0K2xHRGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTMyMzcyCWZpbGU6Q3JlYXRvciBNYW5hZ2VyXzAuMTIuMF94NjQtc2V0dXAuZXhlCnJydUQrWW1lbWY1cG9WaEdOc3ZYT1NzOHZ5ak5WQS9YNTV1UTRzcUg0QzZxNXFISG83WmJwbXJ1SVNqanMzVkhtcllYWkJsbmVCaEZQd2pUVVA5VkRBPT0K",
+      "url": "https://github.com/JAYCoolhq/Creator-Manager/releases/download/v0.12.0-canary/Creator.Manager_0.12.0_x64-setup.exe"
     }
   }
 }
