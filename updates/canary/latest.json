@@ -1,11 +1,11 @@
 {
-  "version": "0.22.2",
-  "notes": "Creator Manager canary 0.22.2",
-  "pub_date": "2026-10-16T11:51:24.630Z",
+  "version": "0.25.1",
+  "notes": "Creator Manager canary 0.25.1",
+  "pub_date": "2026-10-20T18:41:08.283Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQ3lsQ05nMmtiTjNoV2R1N0lSRmlwZkVsRWQyVWQzTHliWUM0RjRMVEFzOE42MGxzdE1jU2JDeTN0aTlrL0RiYkhXMGtuQ0hrSVcrU3V1LzZ5UzRISXRPaTJjYzRrN0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTUxNDQ1CWZpbGU6Q3JlYXRvciBNYW5hZ2VyXzAuMjIuMl94NjQtc2V0dXAuZXhlCkQvZUxrZTcvd1BHelBOa3RMcE84aEw0WmJzbXg2T0Y5eis4bUNsaHYrNTNIVjdJc2JvUXNKQlZya21UWnVSMCtuckEwQzVJTXBXU0RzQ3grR2NxeUR3PT0K",
-      "url": "https://github.com/JAYCoolhq/Creator-Manager/releases/download/v0.22.2-canary/Creator.Manager_0.22.2_x64-setup.exe"
+      "url": "https://github.com/JAYCoolhq/Creator-Manager/releases/download/v0.25.1-canary/CreatorManager-Setup-0.25.1.exe",
+      "sha256": "19b95f0cb3295cbf89071f4878c3b6be6b8fec39541b4485f9b32efc801d7618"
     }
   }
 }
