@@ -1,11 +1,11 @@
 {
-  "version": "0.27.9",
-  "notes": "Creator Manager canary 0.27.9",
-  "pub_date": "2026-10-28T02:25:45.652Z",
+  "version": "0.28.0",
+  "notes": "Creator Manager canary 0.28.0",
+  "pub_date": "2026-10-30T06:45:17.867Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/JAYCoolhq/Creator-Manager/releases/download/v0.27.9-canary/CreatorManager-Setup-0.27.9.exe",
-      "sha256": "177030a55235eed63ebb004cffca0fc49c1b941a4a0c1a98fad8445060542d03"
+      "url": "https://github.com/JAYCoolhq/Creator-Manager/releases/download/v0.28.0-canary/CreatorManager-Setup-0.28.0.exe",
+      "sha256": "a96298e6a4a7713e203c8c9e65f524303bb528cc4939f7c602fb40a2cb949f2e"
     }
   }
 }
